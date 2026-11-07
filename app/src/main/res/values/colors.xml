@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="delta_primary">#1565C0</color>
+    <color name="delta_on_primary">#FFFFFF</color>
+    <color name="delta_primary_container">#D6E3FF</color>
+    <color name="delta_on_primary_container">#001B3E</color>
+    <color name="delta_secondary_container">#DCE6F8</color>
+    <color name="delta_selected_bg">#DCE6F8</color>
+
+    <color name="ic_launcher_background">#1565C0</color>
+
+    <color name="kind_folder">#F9A825</color>
+    <color name="kind_image">#2E7D32</color>
+    <color name="kind_video">#C62828</color>
+    <color name="kind_audio">#6A1B9A</color>
+    <color name="kind_archive">#6D4C41</color>
+    <color name="kind_other">#546E7A</color>
+</resources>
