@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="delta_primary">#A8C7FF</color>
+    <color name="delta_on_primary">#002F65</color>
+    <color name="delta_primary_container">#00468C</color>
+    <color name="delta_on_primary_container">#D6E3FF</color>
+    <color name="delta_secondary_container">#3A4A63</color>
+    <color name="delta_selected_bg">#243349</color>
+</resources>
