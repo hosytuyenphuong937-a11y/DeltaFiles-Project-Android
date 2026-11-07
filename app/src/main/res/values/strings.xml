@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeltaFiles</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="free_space">%s free</string>
+    <string name="n_selected">%d selected</string>
+
+    <!-- Menu -->
+    <string name="search">Search</string>
+    <string name="search_hint">Search this folder</string>
+    <string name="sort">Sort by…</string>
+    <string name="show_hidden">Show hidden files</string>
+    <string name="go_to_root">Go to storage root</string>
+    <string name="copy">Copy</string>
+    <string name="cut">Cut</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="rename">Rename</string>
+    <string name="select_all">Select all</string>
+    <string name="details">Details</string>
+
+    <!-- Create -->
+    <string name="new_item">New</string>
+    <string name="new_folder">New folder</string>
+    <string name="new_file">New file</string>
+
+    <!-- Sort -->
+    <string name="sort_title">Sort by</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_date">Date modified</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_type">Type</string>
+
+    <!-- States -->
+    <string name="empty_folder">This folder is empty</string>
+    <string name="no_results">No matching files</string>
+    <string name="error_unreadable">Can\'t read this folder</string>
+    <string name="permission_message">DeltaFiles needs access to all files on your device so it can browse and manage them.</string>
+    <string name="grant_access">Grant access</string>
+
+    <!-- Clipboard / paste bar -->
+    <string name="clipboard_copy">%d to copy</string>
+    <string name="clipboard_move">%d to move</string>
+    <string name="paste_here">Paste here</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Progress and results -->
+    <string name="copying">Copying…</string>
+    <string name="moving">Moving…</string>
+    <string name="deleting">Deleting…</string>
+    <string name="done">Done</string>
+    <string name="operation_failed">Operation failed</string>
+
+    <!-- Dialogs -->
+    <string name="delete_title">Delete</string>
+    <string name="ok">OK</string>
+    <string name="error_empty_name">Enter a name</string>
+    <string name="error_invalid_name">That name isn\'t allowed</string>
+    <string name="error_exists">Something with that name already exists</string>
+    <string name="error_rename">Couldn\'t rename</string>
+    <string name="error_create">Couldn\'t create it here</string>
+    <string name="error_share">Couldn\'t share</string>
+    <string name="share_no_files">Folders can\'t be shared. Select files instead.</string>
+    <string name="error_no_app">No app can open this file</string>
+    <string name="error_open">Couldn\'t open this file</string>
+    <string name="name_hint">Name</string>
+
+    <!-- Details -->
+    <string name="details_title">Details</string>
+    <string name="detail_name">Name: %s</string>
+    <string name="detail_location">Location: %s</string>
+    <string name="detail_type">Type: %s</string>
+    <string name="detail_modified">Modified: %s</string>
+    <string name="detail_size">Size: %s</string>
+    <string name="detail_calculating">calculating…</string>
+    <string name="detail_selected_count">%d items selected</string>
+    <string name="folder">Folder</string>
+
+    <plurals name="items_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <plurals name="delete_message">
+        <item quantity="one">Permanently delete %d item? This can\'t be undone.</item>
+        <item quantity="other">Permanently delete %d items? This can\'t be undone.</item>
+    </plurals>
+    <plurals name="items_failed">
+        <item quantity="one">%d item failed</item>
+        <item quantity="other">%d items failed</item>
+    </plurals>
+</resources>

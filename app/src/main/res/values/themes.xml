@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeltaFiles" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/delta_primary</item>
+        <item name="colorOnPrimary">@color/delta_on_primary</item>
+        <item name="colorPrimaryContainer">@color/delta_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/delta_on_primary_container</item>
+        <item name="colorSecondaryContainer">@color/delta_secondary_container</item>
+    </style>
+</resources>
